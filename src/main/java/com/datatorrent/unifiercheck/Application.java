@@ -9,7 +9,7 @@ import com.datatorrent.api.annotation.ApplicationAnnotation;
 import com.datatorrent.api.StreamingApplication;
 import com.datatorrent.api.DAG;
 
-@ApplicationAnnotation(name="MyFirstApplication")
+@ApplicationAnnotation(name="Unifier Checkpoint Test")
 public class Application implements StreamingApplication
 {
   @Override
